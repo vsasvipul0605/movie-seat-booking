@@ -13,4 +13,4 @@ Display movie list and total seats in hall to select from in order to purchase t
 
 Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
 
-Assisted by Brad Traversy
+Assisted by [Brad Traversy](https://github.com/bradtraversy) 
